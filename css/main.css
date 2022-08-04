@@ -3,8 +3,10 @@ body {
 }
 p {
     color: brown;
+    font-size: 12px;
 }
 h2 {
     font-size: 50px;
+    color: rgb(28, 75, 75);
 }
-/* коммент */
+/* коммент программист приступил*/
